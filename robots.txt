@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://finbarre.github.io/tarotinterviews/sitemap.xml
+Sitemap: https://snarey.github.io/tarotinterviews/sitemap.xml
