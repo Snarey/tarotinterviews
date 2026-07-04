@@ -23,7 +23,15 @@
     'floating-chat.donateButton.text-color': '#1A1A1A'
   });</script><style>.floatingchat-container-wrap,
   .floatingchat-container-wrap-mobi {
+    position: fixed !important;
     left: auto !important;
-    right: 16px !important;
-    bottom: 16px !important;
+    right: 24px !important;
+    bottom: 24px !important;
+    transform: none !important;
+    z-index: 999999 !important;
+  }
+
+  .floatingchat-container-wrap iframe,
+  .floatingchat-container-wrap-mobi iframe {
+    max-width: none !important;
   }</style></body></html>
