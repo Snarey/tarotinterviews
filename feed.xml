@@ -3,7 +3,7 @@
     <title>TAROT INTERVIEWS</title>
     <link href="https://tarotinterviews.com/feed.xml" rel="self" />
     <link href="https://tarotinterviews.com" />
-    <updated>2026-07-05T12:10:14+01:00</updated>
+    <updated>2026-07-05T16:15:17+01:00</updated>
     <author>
         <name>Finbarre Snarey</name>
     </author>
@@ -17,6 +17,7 @@
         <link href="https://tarotinterviews.com/p/callie-kazumi/"/>
         <id>https://tarotinterviews.com/p/callie-kazumi/</id>
         <media:content url="https://tarotinterviews.com/media/posts/56/WhatsApp-Image-2026-06-29-at-09.26.47.jpeg" medium="image" />
+            <category term="Authors"/>
 
         <updated>2026-06-30T20:56:29+01:00</updated>
             <summary type="html">
@@ -584,6 +585,7 @@
         <link href="https://tarotinterviews.com/p/the-dream-eaters/"/>
         <id>https://tarotinterviews.com/p/the-dream-eaters/</id>
         <media:content url="https://tarotinterviews.com/media/posts/52/rOXB7qX4.png" medium="image" />
+            <category term="Musicians"/>
 
         <updated>2026-05-27T17:17:00+01:00</updated>
             <summary type="html">
@@ -619,6 +621,7 @@
         <link href="https://tarotinterviews.com/p/adrian-tchaikovsky/"/>
         <id>https://tarotinterviews.com/p/adrian-tchaikovsky/</id>
         <media:content url="https://tarotinterviews.com/media/posts/50/b47fd093-f3fc-4c60-853f-e783ec37093a_2928x2928.webp" medium="image" />
+            <category term="Authors"/>
 
         <updated>2026-05-04T19:35:03+01:00</updated>
             <summary type="html">
@@ -651,6 +654,7 @@
         <link href="https://tarotinterviews.com/p/elspeth-wilson/"/>
         <id>https://tarotinterviews.com/p/elspeth-wilson/</id>
         <media:content url="https://tarotinterviews.com/media/posts/49/d0f3178f-049d-4b09-890b-4855afa7cc64_2731x2731.webp" medium="image" />
+            <category term="Authors"/>
 
         <updated>2026-04-25T19:28:17+01:00</updated>
             <summary type="html">
@@ -683,6 +687,7 @@
         <link href="https://tarotinterviews.com/p/alice-slater/"/>
         <id>https://tarotinterviews.com/p/alice-slater/</id>
         <media:content url="https://tarotinterviews.com/media/posts/48/f89b92ab-cd05-4ea1-baad-fd9718a66698_1069x1069.webp" medium="image" />
+            <category term="Authors"/>
 
         <updated>2026-04-16T19:23:39+01:00</updated>
             <summary type="html">
@@ -715,6 +720,7 @@
         <link href="https://tarotinterviews.com/p/emma-van-straaten/"/>
         <id>https://tarotinterviews.com/p/emma-van-straaten/</id>
         <media:content url="https://tarotinterviews.com/media/posts/47/7226a19c-9cdf-44a2-8345-02171482b2ec_1646x1648.webp" medium="image" />
+            <category term="Authors"/>
 
         <updated>2026-04-12T19:21:50+01:00</updated>
             <summary type="html">
@@ -747,6 +753,7 @@
         <link href="https://tarotinterviews.com/p/marie-waller/"/>
         <id>https://tarotinterviews.com/p/marie-waller/</id>
         <media:content url="https://tarotinterviews.com/media/posts/46/CJIMG-20260330-WA0000-topaz-face-upscale-2x-e1778780419663.jpg" medium="image" />
+            <category term="Authors"/>
 
         <updated>2026-04-06T18:37:02+01:00</updated>
             <summary type="html">
