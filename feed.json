@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://tarotinterviews.com/p/charming-disaster/",
+            "url": "https://tarotinterviews.com/p/charming-disaster/",
+            "title": "Charming Disaster",
+            "summary": "What happens when your live setlist is entirely governed by a tarot deck? In the latest Tarot DMs chat, I speak with Brooklyn’s dark-pop duo Charming Disaster. Ellia Bisker and Jeff Morris who write songs that feel like they belong in a Baudelaire-esque bordello... and their creative process is just as wonderfully eccentric. Step into their studio with me and persuse a cabinet of curiosities overflowing with strange artifacts, and rare cards. Read more at https://tarotdms.com",
+            "content_html": "<p data-path-to-node=\"0\">What happens when your live setlist is entirely governed by a tarot deck?</p>\n<p data-path-to-node=\"1\">In the latest Tarot DMs chat, I speak with Brooklyn’s dark-pop duo Charming Disaster. Ellia Bisker and Jeff Morris who write songs that feel like they belong in a Baudelaire-esque bordello... and their creative process is just as wonderfully eccentric.</p>\n<p data-path-to-node=\"3\">Step into their studio with me and persuse a cabinet of curiosities overflowing with strange artifacts, and rare cards.</p>\n<p data-path-to-node=\"3\">Read more at <a href=\"https://tarotdms.com\">https://tarotdms.com</a></p>",
+            "image": "https://tarotinterviews.com/media/posts/67/WhatsApp-Image-2026-07-11-at-17.03.35.jpeg",
+            "author": {
+                "name": "Finbarre Snarey"
+            },
+            "tags": [
+                   "Musicians"
+            ],
+            "date_published": "2026-07-13T23:17:03+01:00",
+            "date_modified": "2026-07-13T23:17:32+01:00"
+        },
+        {
             "id": "https://tarotinterviews.com/p/callie-kazumi/",
             "url": "https://tarotinterviews.com/p/callie-kazumi/",
             "title": "Callie Kazumi",
@@ -152,22 +168,6 @@
             ],
             "date_published": "2026-04-12T19:21:50+01:00",
             "date_modified": "2026-07-05T16:15:11+01:00"
-        },
-        {
-            "id": "https://tarotinterviews.com/p/marie-waller/",
-            "url": "https://tarotinterviews.com/p/marie-waller/",
-            "title": "Marie Waller",
-            "summary": "What do angel cards, a 1911 clock, Over the Garden Wall and Kate Bush have in common? They all find their way into Marie Waller’s wonderfully eerie Tarot DMs conversation, as the Ghost of a Smile writer joins me to find a route through the woods. You can read the full Tarot DMs interview here",
-            "content_html": "<p><!-- wp:paragraph --></p>\n<p><!-- /wp:paragraph --></p>\n<p><!-- wp:paragraph --></p>\n<p>What do angel cards, a 1911 clock, <em>Over the Garden Wall</em> and Kate Bush have in common? They all find their way into Marie Waller’s wonderfully eerie Tarot DMs conversation, as the <em>Ghost of a Smile</em> writer joins me to find a route through the woods.</p>\n<p><!-- /wp:paragraph --></p>\n<p><!-- wp:paragraph --></p>\n<p>You can read the full Tarot DMs interview <a href=\"https://www.tarotdms.com/p/chat-26-marie-waller\">here</a></p>\n<p><!-- /wp:paragraph --></p>\n<p><!-- wp:paragraph --></p>\n<p><!-- /wp:paragraph --></p>",
-            "image": "https://tarotinterviews.com/media/posts/46/CJIMG-20260330-WA0000-topaz-face-upscale-2x-e1778780419663.jpg",
-            "author": {
-                "name": "Finbarre Snarey"
-            },
-            "tags": [
-                   "Authors"
-            ],
-            "date_published": "2026-04-06T18:37:02+01:00",
-            "date_modified": "2026-07-05T16:15:17+01:00"
         }
     ]
 }
