@@ -16,7 +16,7 @@
       "publisher": {
         "@id": "https://finbarre.com/#person"
       },
-      "about": {
+      "hasPart": {
         "@id": "https://tarotinterviews.com/#podcast"
       },
       "inLanguage": "en-GB",
@@ -75,6 +75,9 @@
       },
       "publisher": {
         "@id": "https://finbarre.com/#person"
+      },
+      "isPartOf": {
+        "@id": "https://tarotinterviews.com/#website"
       },
       "mainEntityOfPage": {
         "@id": "https://tarotinterviews.com/#webpage"
@@ -153,7 +156,7 @@
         "Fin"
       ],
       "url": "https://finbarre.com/",
-      "description": "Finbarre Snarey is the creator, producer and host of Tarot Interviews, and works across arts and culture journalism, podcasting, tarot research and digital publishing.",
+      "description": "Finbarre Snarey is an arts and culture journalist, producer and creative technologist. He is the creator of Tarot Interviews, Tarot DMs, One Tarot Card and CardMeanings.com, and founder of the British Tarot Archive.",
       "jobTitle": [
         "Arts and Culture Journalist",
         "Producer",
@@ -178,23 +181,50 @@
         "Digital publishing"
       ],
       "sameAs": [
-        "https://finbarre.com/",
         "https://bsky.app/profile/finbarre.com",
         "https://www.instagram.com/finbarre/",
         "https://www.linkedin.com/in/finbarresnarey/",
         "https://www.imdb.com/name/nm17224867/"
       ],
       "mainEntityOfPage": {
-        "@id": "https://tarotinterviews.com/about/#webpage"
+        "@id": "https://finbarre.com/#profile"
       },
       "subjectOf": [
         {
-          "@id": "https://tarotinterviews.com/about/#webpage"
+          "@id": "https://finbarre.com/#profile"
         },
         {
-          "@id": "https://tarotinterviews.com/#podcast"
+          "@id": "https://tarotinterviews.com/about/#webpage"
         }
       ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://finbarre.com/#website",
+      "url": "https://finbarre.com/",
+      "name": "Finbarre Snarey",
+      "description": "The website of Finbarre Snarey, arts and culture journalist, producer and creative technologist.",
+      "creator": {
+        "@id": "https://finbarre.com/#person"
+      },
+      "publisher": {
+        "@id": "https://finbarre.com/#person"
+      },
+      "inLanguage": "en-GB"
+    },
+    {
+      "@type": "ProfilePage",
+      "@id": "https://finbarre.com/#profile",
+      "url": "https://finbarre.com/",
+      "name": "Finbarre Snarey",
+      "description": "The official profile of Finbarre Snarey, arts and culture journalist, producer, creative technologist and tarot researcher.",
+      "mainEntity": {
+        "@id": "https://finbarre.com/#person"
+      },
+      "isPartOf": {
+        "@id": "https://finbarre.com/#website"
+      },
+      "inLanguage": "en-GB"
     },
     {
       "@type": "SiteNavigationElement",
@@ -299,6 +329,23 @@
       "inLanguage": "en-GB"
     },
     {
+      "@type": "WebSite",
+      "@id": "https://tarotdms.com/#website",
+      "url": "https://tarotdms.com/",
+      "name": "Tarot DMs",
+      "description": "Tarot DMs is a messenger-based interview project created by Finbarre Snarey.",
+      "creator": {
+        "@id": "https://finbarre.com/#person"
+      },
+      "publisher": {
+        "@id": "https://finbarre.com/#person"
+      },
+      "hasPart": {
+        "@id": "https://tarotdms.com/#series"
+      },
+      "inLanguage": "en-GB"
+    },
+    {
       "@type": "CreativeWorkSeries",
       "@id": "https://tarotdms.com/#series",
       "url": "https://tarotdms.com/",
@@ -314,7 +361,115 @@
         "@id": "https://finbarre.com/#person"
       },
       "issn": "2978-8935",
+      "isPartOf": {
+        "@id": "https://tarotdms.com/#website"
+      },
       "inLanguage": "en-GB"
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://onetarotcard.com/#website",
+      "url": "https://onetarotcard.com/",
+      "name": "One Tarot Card",
+      "description": "One Tarot Card is a live public interview platform created by Finbarre Snarey for short tarot-led conversations.",
+      "creator": {
+        "@id": "https://finbarre.com/#person"
+      },
+      "publisher": {
+        "@id": "https://finbarre.com/#person"
+      },
+      "hasPart": {
+        "@id": "https://onetarotcard.com/#series"
+      },
+      "inLanguage": "en-GB"
+    },
+    {
+      "@type": "CreativeWorkSeries",
+      "@id": "https://onetarotcard.com/#series",
+      "url": "https://onetarotcard.com/channel/OneTarotCard",
+      "name": "One Tarot Card",
+      "description": "A live public micro-interview series in which Finbarre Snarey draws one tarot card and asks the participant one question inspired by it.",
+      "creator": {
+        "@id": "https://finbarre.com/#person"
+      },
+      "author": {
+        "@id": "https://finbarre.com/#person"
+      },
+      "publisher": {
+        "@id": "https://finbarre.com/#person"
+      },
+      "isPartOf": {
+        "@id": "https://onetarotcard.com/#website"
+      },
+      "inLanguage": "en-GB"
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://cardmeanings.com/#website",
+      "url": "https://cardmeanings.com/",
+      "name": "Card Meanings",
+      "alternateName": "CardMeanings.com",
+      "description": "A quick-reference guide to all 78 Rider-Waite-Smith tarot cards, combining traditional symbolism, upright and reversed meanings, and Finbarre Snarey's contemporary interpretations.",
+      "creator": {
+        "@id": "https://finbarre.com/#person"
+      },
+      "publisher": {
+        "@id": "https://finbarre.com/#person"
+      },
+      "copyrightHolder": {
+        "@id": "https://finbarre.com/#person"
+      },
+      "copyrightYear": 2026,
+      "about": {
+        "@id": "https://cardmeanings.com/#rider-waite-smith-tarot"
+      },
+      "hasPart": {
+        "@id": "https://cardmeanings.com/#homepage"
+      },
+      "inLanguage": "en-GB"
+    },
+    {
+      "@type": [
+        "CollectionPage",
+        "WebPage"
+      ],
+      "@id": "https://cardmeanings.com/#homepage",
+      "url": "https://cardmeanings.com/",
+      "name": "Rider-Waite-Smith Tarot Card Meanings",
+      "headline": "The Rider-Waite-Smith Tarot",
+      "description": "Explore traditional symbolism, upright and reversed meanings, and contemporary interpretations for all 78 Rider-Waite-Smith tarot cards.",
+      "isPartOf": {
+        "@id": "https://cardmeanings.com/#website"
+      },
+      "author": {
+        "@id": "https://finbarre.com/#person"
+      },
+      "publisher": {
+        "@id": "https://finbarre.com/#person"
+      },
+      "about": {
+        "@id": "https://cardmeanings.com/#rider-waite-smith-tarot"
+      },
+      "mainEntity": {
+        "@type": "ItemList",
+        "@id": "https://cardmeanings.com/#tarot-card-index",
+        "name": "The 78 Rider-Waite-Smith Tarot Cards",
+        "description": "A browsable collection of all 78 Rider-Waite-Smith tarot card guides.",
+        "numberOfItems": 78,
+        "itemListOrder": "https://schema.org/ItemListOrderAscending"
+      },
+      "inLanguage": "en-GB"
+    },
+    {
+      "@type": "DefinedTermSet",
+      "@id": "https://cardmeanings.com/#rider-waite-smith-tarot",
+      "name": "Rider-Waite-Smith Tarot",
+      "alternateName": [
+        "RWS Tarot",
+        "Rider-Waite-Smith deck"
+      ],
+      "description": "A set of 78 tarot cards illustrated by Pamela Colman Smith and first published with guidance by A. E. Waite.",
+      "url": "https://cardmeanings.com/"
     },
     {
       "@type": "Organization",
@@ -384,12 +539,7 @@
   .floating-chat-kofi-popup-iframe-closer-mobi {
     left: 20px !important;
     right: auto !important;
-  }</style><script type="text/javascript">(function(w, d, s, u) {
-		w.RocketChat = function(c) { w.RocketChat._.push(c) }; w.RocketChat._ = []; w.RocketChat.url = u;
-		var h = d.getElementsByTagName(s)[0], j = d.createElement(s);
-		j.async = true; j.src = 'https://marble-ammonite.pikapod.net/livechat/rocketchat-livechat.min.js?_=201903270000';
-		h.parentNode.insertBefore(j, h);
-	})(window, document, 'script', 'https://marble-ammonite.pikapod.net/livechat');</script><script src="https://tarotinterviews.com/media/plugins/pagePrefetching/quicklink.umd.js"></script><script>window.addEventListener('load', () => {
+  }</style><script src="https://tarotinterviews.com/media/plugins/pagePrefetching/quicklink.umd.js"></script><script>window.addEventListener('load', () => {
 					quicklink.listen({
 						prerender: false,
 						el: document.querySelector('body'),
