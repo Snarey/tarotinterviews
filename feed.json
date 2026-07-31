@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://tarotinterviews.com/p/leon-craig/",
+            "url": "https://tarotinterviews.com/p/leon-craig/",
+            "title": "Leon Craig",
+            "summary": "For the latest chat on Tarot DMs, I bartered three tarot cards with author Leon Craig in return for three stories. Tracing steps through Holt House in The Decadence and discovered the shadow of a mysterious childhood deck. “Sometimes the Wheel is looming overhead, but I am swimming.” - Leon Craig When three cards dictate the arc of a conversation, you never quite know how fate will turn... or how a deck will leave an indelible mark on the creative psyche. The full conversation is live now over at https://tarotdms.com",
+            "content_html": "<p data-path-to-node=\"0\">For the latest chat on Tarot DMs, I bartered three tarot cards with author Leon Craig in return for three stories. Tracing steps through Holt House in <i data-path-to-node=\"0\" data-index-in-node=\"160\">The Decadence </i>and discovered the shadow of a mysterious childhood deck.</p>\n<blockquote data-path-to-node=\"2\">\n<p data-path-to-node=\"2,0\"><i data-path-to-node=\"2,0\" data-index-in-node=\"0\">“Sometimes the Wheel is looming overhead, but I am swimming.”</i></p>\n<p data-path-to-node=\"2,1\"><strong data-path-to-node=\"2,1\" data-index-in-node=\"2\">- Leon Craig</strong></p>\n</blockquote>\n<p data-path-to-node=\"4\">When three cards dictate the arc of a conversation, you never quite know how fate will turn... or how a deck will leave an indelible mark on the creative psyche.</p>\n<p data-path-to-node=\"5\">The full conversation is live now over at <a href=\"https://tarotdms.com\" target=\"_blank\" rel=\"noopener noreferrer\">https://tarotdms.com</a></p>",
+            "image": "https://tarotinterviews.com/media/posts/68/Leon-Craig_headshot_credit_Corinne-Biglietti_cropped.jpg",
+            "author": {
+                "name": "Finbarre Snarey"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-07-31T18:21:14+01:00",
+            "date_modified": "2026-07-31T18:21:14+01:00"
+        },
+        {
             "id": "https://tarotinterviews.com/p/charming-disaster/",
             "url": "https://tarotinterviews.com/p/charming-disaster/",
             "title": "Charming Disaster",
@@ -152,22 +167,6 @@
             ],
             "date_published": "2026-04-16T19:23:39+01:00",
             "date_modified": "2026-07-05T16:15:05+01:00"
-        },
-        {
-            "id": "https://tarotinterviews.com/p/emma-van-straaten/",
-            "url": "https://tarotinterviews.com/p/emma-van-straaten/",
-            "title": "Emma Van Straaten",
-            "summary": "Emma van Straaten writes about loneliness, fantasy and the stories people tell themselves about love. In this Tarot DMs chat, the This Immaculate Body author talks creative impatience, mixed-race identity, dropped tarot decks and excellent crisps. You can read the full Tarot DMs interview here",
-            "content_html": "<p><!-- wp:paragraph --></p>\n<p><!-- /wp:paragraph --></p>\n<p><!-- wp:paragraph --></p>\n<p>Emma van Straaten writes about loneliness, fantasy and the stories people tell themselves about love. In this Tarot DMs chat, the <em>This Immaculate Body</em> author talks creative impatience, mixed-race identity, dropped tarot decks and excellent crisps.</p>\n<p><!-- /wp:paragraph --></p>\n<p><!-- wp:paragraph --></p>\n<p>You can read the full Tarot DMs interview <a href=\"https://www.tarotdms.com/p/chat-27-emma-van-straaten\">here</a></p>\n<p><!-- /wp:paragraph --></p>\n<p><!-- wp:paragraph --></p>\n<p><!-- /wp:paragraph --></p>",
-            "image": "https://tarotinterviews.com/media/posts/47/7226a19c-9cdf-44a2-8345-02171482b2ec_1646x1648.webp",
-            "author": {
-                "name": "Finbarre Snarey"
-            },
-            "tags": [
-                   "Authors"
-            ],
-            "date_published": "2026-04-12T19:21:50+01:00",
-            "date_modified": "2026-07-05T16:15:11+01:00"
         }
     ]
 }
