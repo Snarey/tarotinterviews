@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://tarotinterviews.com/p/claire-gilman-morgan-library/",
+            "url": "https://tarotinterviews.com/p/claire-gilman-morgan-library/",
+            "title": "Claire Gilman",
+            "summary": "How does a 15th-century Italian parlor game become a muse for modern fine art? In the latest Tarot DMs, Finbarre chats with Claire Gilman (Acquavella Curator at the Morgan Library &amp; Museum) about their packed NYC exhibition, Tarot! Renaissance Symbols, Modern Visions. We discuss: \"Artists are drawn to tarot because it has this art-historical lineage... but its symbolism is open-ended enough to speak to contemporary issues.\" Read the full conversation on Tarot DMs",
+            "content_html": "<p data-path-to-node=\"0\">How does a 15th-century Italian parlor game become a muse for modern fine art?</p>\n<p data-path-to-node=\"1\">In the latest Tarot DMs, Finbarre chats with Claire Gilman (Acquavella Curator at the Morgan Library &amp; Museum) about their packed NYC exhibition, <i data-path-to-node=\"1\" data-index-in-node=\"153\">Tarot! Renaissance Symbols, Modern Visions</i>.</p>\n<p data-path-to-node=\"2\">We discuss:</p>\n<ul>\n<li data-path-to-node=\"3,0,0\">Pamela Colman Smith’s hidden suffragette nods.</li>\n<li data-path-to-node=\"3,1,0\">Chris Ofili linking the Major Arcana to Trinidadian carnival, and Dorothy Iannone’s delightfully \"naughty\" custom deck.</li>\n<li data-path-to-node=\"3,2,0\">Drawing the <i data-path-to-node=\"3,2,0\" data-index-in-node=\"34\">Eight of Swords</i> to explore how tight budgets and space sharpen curatorial vision.</li>\n</ul>\n<blockquote>\n<p data-path-to-node=\"4\"><i data-path-to-node=\"4\" data-index-in-node=\"0\">\"Artists are drawn to tarot because it has this art-historical lineage... but its symbolism is open-ended enough to speak to contemporary issues.\"</i></p>\n</blockquote>\n<p data-path-to-node=\"4\">Read the full conversation on <a href=\"https://tarotdms.com\" target=\"_blank\" rel=\"noopener noreferrer\">Tarot DMs</a></p>",
+            "image": "https://tarotinterviews.com/media/posts/69/IMG-20260813-WA0000.jpg",
+            "author": {
+                "name": "Finbarre Snarey"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-08-17T18:47:06+01:00",
+            "date_modified": "2026-08-17T18:47:06+01:00"
+        },
+        {
             "id": "https://tarotinterviews.com/p/leon-craig/",
             "url": "https://tarotinterviews.com/p/leon-craig/",
             "title": "Leon Craig",
@@ -151,22 +166,6 @@
             ],
             "date_published": "2026-04-25T19:28:17+01:00",
             "date_modified": "2026-07-05T16:10:02+01:00"
-        },
-        {
-            "id": "https://tarotinterviews.com/p/alice-slater/",
-            "url": "https://tarotinterviews.com/p/alice-slater/",
-            "title": "Alice Slater",
-            "summary": "Alice Slater arrives with old tarot cards, excellent rings and a dog called Peachy. In this Tarot DMs chat, the Death of a Bookseller and Let the Bad Times Roll author talks bookselling, brass insects, and occult novels. Find out why writing a novel feels like a romance. You can read the full Tarot DMs interview here",
-            "content_html": "<p><!-- wp:paragraph --></p>\n<p><!-- /wp:paragraph --></p>\n<p><!-- wp:paragraph --></p>\n<p>Alice Slater arrives with old tarot cards, excellent rings and a dog called Peachy. In this Tarot DMs chat, the <em>Death of a Bookseller</em> and <em>Let the Bad Times Roll</em> author talks bookselling, brass insects, and occult novels. Find out why writing a novel feels like a romance.</p>\n<p><!-- /wp:paragraph --></p>\n<p><!-- wp:paragraph --></p>\n<p>You can read the full Tarot DMs interview <a href=\"https://www.tarotdms.com/p/chat-28-alice-slater\">here</a></p>\n<p><!-- /wp:paragraph --></p>\n<p><!-- wp:paragraph --></p>\n<p><!-- /wp:paragraph --></p>",
-            "image": "https://tarotinterviews.com/media/posts/48/f89b92ab-cd05-4ea1-baad-fd9718a66698_1069x1069.webp",
-            "author": {
-                "name": "Finbarre Snarey"
-            },
-            "tags": [
-                   "Authors"
-            ],
-            "date_published": "2026-04-16T19:23:39+01:00",
-            "date_modified": "2026-07-05T16:15:05+01:00"
         }
     ]
 }
