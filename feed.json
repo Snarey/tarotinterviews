@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://tarotinterviews.com/p/madelaine-gnewski/",
+            "url": "https://tarotinterviews.com/p/madelaine-gnewski/",
+            "title": "Madelaine Gnewski",
+            "summary": "In the latest Tarot DMs, Finbarre chats with writer and linguist Madelaine Gnewski about inherited stories and what it is like to fall in love with the cards. “Once something is on paper, it’s no longer in my head or my body.” We throw the Page of Wands into the sea and meet a multilingual rescue dog too. Follow the three cards and read the full conversation on Tarot DMs.",
+            "content_html": "<p class=\"isSelectedEnd\">In the latest Tarot DMs, Finbarre chats with writer and linguist Madelaine Gnewski about inherited stories and what it is like to fall in love with the cards.</p>\n<blockquote>\n<p class=\"isSelectedEnd\"><em>“Once something is on paper, it’s no longer in my head or my body.”<br></em></p>\n</blockquote>\n<p>We throw the <em>Page of Wands</em> into the sea and meet a multilingual rescue dog too.</p>\n<p>Follow the three cards and read the full conversation on <a href=\"https://tarotdms.com/\">Tarot DMs</a>.</p>",
+            "image": "https://tarotinterviews.com/media/posts/70/WhatsApp-Image-2026-08-16-at-16.35.42.jpeg",
+            "author": {
+                "name": "Finbarre Snarey"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-08-26T09:47:15+01:00",
+            "date_modified": "2026-08-26T09:47:15+01:00"
+        },
+        {
             "id": "https://tarotinterviews.com/p/claire-gilman-morgan-library/",
             "url": "https://tarotinterviews.com/p/claire-gilman-morgan-library/",
             "title": "Claire Gilman",
@@ -22,7 +37,7 @@
             "tags": [
             ],
             "date_published": "2026-08-17T18:47:06+01:00",
-            "date_modified": "2026-08-17T18:47:06+01:00"
+            "date_modified": "2026-08-26T09:40:18+01:00"
         },
         {
             "id": "https://tarotinterviews.com/p/leon-craig/",
@@ -150,22 +165,6 @@
             ],
             "date_published": "2026-05-04T19:35:03+01:00",
             "date_modified": "2026-07-05T16:14:58+01:00"
-        },
-        {
-            "id": "https://tarotinterviews.com/p/elspeth-wilson/",
-            "url": "https://tarotinterviews.com/p/elspeth-wilson/",
-            "title": "Elspeth Wilson",
-            "summary": "Elspeth Wilson shared DMs with me about notebooks, nervous dogs and a delightfully ghostly cello solution! In this chat, the author of These Mortal Bodies talks tarot as a creative prompt, writing after work, movement, noticing, reader reactions and answering what calls your name. You can read the full Tarot DMs interview here",
-            "content_html": "<p><!-- wp:paragraph --></p>\n<p><!-- /wp:paragraph --></p>\n<p><!-- wp:paragraph --></p>\n<p>Elspeth Wilson shared DMs with me about notebooks, nervous dogs and a delightfully ghostly cello solution! In this chat, the author of <em>These Mortal Bodies</em> talks tarot as a creative prompt, writing after work, movement, noticing, reader reactions and answering what calls your name.</p>\n<p><!-- /wp:paragraph --></p>\n<p><!-- wp:paragraph --></p>\n<p>You can read the full Tarot DMs interview <a href=\"https://www.tarotdms.com/p/chat-29-elspeth-wilson\">here</a></p>\n<p><!-- /wp:paragraph --></p>\n<p><!-- wp:paragraph --></p>\n<p><!-- /wp:paragraph --></p>",
-            "image": "https://tarotinterviews.com/media/posts/49/d0f3178f-049d-4b09-890b-4855afa7cc64_2731x2731.webp",
-            "author": {
-                "name": "Finbarre Snarey"
-            },
-            "tags": [
-                   "Authors"
-            ],
-            "date_published": "2026-04-25T19:28:17+01:00",
-            "date_modified": "2026-07-05T16:10:02+01:00"
         }
     ]
 }
