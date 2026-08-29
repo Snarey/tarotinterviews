@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://tarotinterviews.com/p/boo-miller/",
+            "url": "https://tarotinterviews.com/p/boo-miller/",
+            "title": "Boo Miller",
+            "summary": "Dive into the mind of Boo Miller, the versatile voice actor who brings Hershel Wilk and her competing internal skills to life in ZA/UM’s Zero Parades: For Dead Spies. In the latest episode of Tarot DMs, Boo pulls three cards to navigate her dynamic creative journey, contrasting the deep community of a year-and-a-half-long studio project with the thrill of live improv. Boo shares candid insights on overcoming creative burnout, applying Meryl Streep's advice on living a full life, and balancing her bustling career with planning an autumnal wedding and a honeymoon to the Seychelles. Alongside the profound reflections, Boo fully&hellip;",
+            "content_html": "<p data-path-to-node=\"0\">Dive into the mind of Boo Miller, the versatile voice actor who brings Hershel Wilk and her competing internal skills to life in ZA/UM’s <i data-path-to-node=\"0\" data-index-in-node=\"137\">Zero Parades: For Dead Spies</i>. In the latest episode of Tarot DMs, Boo pulls three cards to navigate her dynamic creative journey, contrasting the deep community of a year-and-a-half-long studio project with the thrill of live improv.</p>\n<p data-path-to-node=\"1\">Boo shares candid insights on overcoming creative burnout, applying Meryl Streep's advice on living a full life, and balancing her bustling career with planning an autumnal wedding and a honeymoon to the Seychelles. Alongside the profound reflections, Boo fully embraces the chaos by translating her tarot pulls into high Furbish.</p>\n<p data-path-to-node=\"1\">Hear Boo's unforgettable interview <a href=\"https://www.tarotdms.com/p/chat-38-boo-miller\" target=\"_blank\" rel=\"noopener noreferrer\">here</a></p>",
+            "image": "https://tarotinterviews.com/media/posts/71/9609462Boo-Miller10029-copy.jpg",
+            "author": {
+                "name": "Finbarre Snarey"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-08-29T15:06:09+01:00",
+            "date_modified": "2026-08-29T15:06:09+01:00"
+        },
+        {
             "id": "https://tarotinterviews.com/p/madelaine-gnewski/",
             "url": "https://tarotinterviews.com/p/madelaine-gnewski/",
             "title": "Madelaine Gnewski",
@@ -149,22 +164,6 @@
             ],
             "date_published": "2026-05-27T17:17:00+01:00",
             "date_modified": "2026-07-05T16:14:45+01:00"
-        },
-        {
-            "id": "https://tarotinterviews.com/p/adrian-tchaikovsky/",
-            "url": "https://tarotinterviews.com/p/adrian-tchaikovsky/",
-            "title": "Adrian Tchaikovsky",
-            "summary": "The thirtieth Tarot DMs chat opens a portal into science fiction, fantasy, role-playing games and insect decks. Adrian Tchaikovsky talks about Children of Time, world-building sparks, theatrical swords, mysterious moons and how much a writer should reveal. You can read the full Tarot DMs interview here",
-            "content_html": "<p><!-- wp:paragraph --></p>\n<p><!-- /wp:paragraph --></p>\n<p><!-- wp:paragraph --></p>\n<p>The thirtieth Tarot DMs chat opens a portal into science fiction, fantasy, role-playing games and insect decks. Adrian Tchaikovsky talks about <em>Children of Time</em>, world-building sparks, theatrical swords, mysterious moons and how much a writer should reveal.</p>\n<p><!-- /wp:paragraph --></p>\n<p><!-- wp:paragraph --></p>\n<p>You can read the full Tarot DMs interview <a href=\"https://www.tarotdms.com/p/chat-30-adrian-tchaikovsky\">here</a></p>\n<p><!-- /wp:paragraph --></p>\n<p><!-- wp:paragraph --></p>\n<p><!-- /wp:paragraph --></p>",
-            "image": "https://tarotinterviews.com/media/posts/50/b47fd093-f3fc-4c60-853f-e783ec37093a_2928x2928.webp",
-            "author": {
-                "name": "Finbarre Snarey"
-            },
-            "tags": [
-                   "Authors"
-            ],
-            "date_published": "2026-05-04T19:35:03+01:00",
-            "date_modified": "2026-07-05T16:14:58+01:00"
         }
     ]
 }
