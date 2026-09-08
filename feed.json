@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://tarotinterviews.com/p/james-crow-and-simon-cluett/",
+            "url": "https://tarotinterviews.com/p/james-crow-and-simon-cluett/",
+            "title": "James Crow and Simon Cluett",
+            "summary": "Step right up and drop your coin in the slot, but be careful what you ask for! In this session, I sat down with director James Crow and screenwriter Simon Cluett to talk about Harbinger, a British horror movie centered around a creepy fairground fortune-telling machine. Built on a deep love for classic scares, the film was a lovenote to old-school Hammer horror. Shot in a real haunted house with deep, moody shadows, it delivered nightmare galore - complete with an appearance by Doctor Who legend Carol Ann Ford! It felt only fitting to use tarot cards to interview the&hellip;",
+            "content_html": "<p data-path-to-node=\"0\">Step right up and drop your coin in the slot, but be careful what you ask for! In this session, I sat down with director James Crow and screenwriter Simon Cluett to talk about <em>Harbinger</em>, a British horror movie centered around a creepy fairground fortune-telling machine. Built on a deep love for classic scares, the film was a lovenote to old-school Hammer horror. Shot in a real haunted house with deep, moody shadows, it delivered nightmare galore - complete with an appearance by <i data-path-to-node=\"0\" data-index-in-node=\"511\">Doctor Who</i> legend Carol Ann Ford!</p>\n<p data-path-to-node=\"1\">It felt only fitting to use tarot cards to interview the guys behind a movie where flipping a card had sinister outcomes. With Crow comparing the wild ride of filmmaking to surviving an <i data-path-to-node=\"1\" data-index-in-node=\"391\">Evil Dead</i> movie, and Cluett joking that he was typing from inside a protective chalk pentagram, the energy was wonderfully chaotic. Read the full interview below to see exactly what fate dealt them.</p>",
+            "image": "https://tarotinterviews.com/media/posts/72/images-11.jpg",
+            "author": {
+                "name": "Finbarre Snarey"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-09-08T21:33:14+01:00",
+            "date_modified": "2026-09-08T21:33:14+01:00"
+        },
+        {
             "id": "https://tarotinterviews.com/p/boo-miller/",
             "url": "https://tarotinterviews.com/p/boo-miller/",
             "title": "Boo Miller",
@@ -148,22 +163,6 @@
             ],
             "date_published": "2026-06-15T14:27:59+01:00",
             "date_modified": "2026-07-05T16:21:40+01:00"
-        },
-        {
-            "id": "https://tarotinterviews.com/p/the-dream-eaters/",
-            "url": "https://tarotinterviews.com/p/the-dream-eaters/",
-            "title": "The Dream Eaters",
-            "summary": "Uncanny VHS-era supermarket doom tunes crossed with pop schmaltz. The Dream Eaters talk about cult audiences, making pain funny, making pop music weird, loneliness, touring, Canada and the Wheel of Fortune. All very nomal. You can read the full Tarot DMs interview here.",
-            "content_html": "<p><!-- wp:paragraph --></p>\n<p><!-- /wp:paragraph --></p>\n<p><!-- wp:paragraph --></p>\n<p>Uncanny VHS-era supermarket doom tunes crossed with pop schmaltz. The Dream Eaters talk about cult audiences, making pain funny, making pop music weird, loneliness, touring, Canada and the Wheel of Fortune.</p>\n<p><!-- /wp:paragraph --></p>\n<p><!-- wp:paragraph --></p>\n<p>All very nomal.</p>\n<p><!-- /wp:paragraph --></p>\n<p><!-- wp:paragraph --></p>\n<p>You can read the full Tarot DMs interview <a href=\"https://www.tarotdms.com/p/chat-31-the-dream-eaters\">here.</a></p>\n<p><!-- /wp:paragraph --></p>\n<p><!-- wp:paragraph --></p>\n<p><!-- /wp:paragraph --></p>",
-            "image": "https://tarotinterviews.com/media/posts/52/rOXB7qX4.png",
-            "author": {
-                "name": "Finbarre Snarey"
-            },
-            "tags": [
-                   "Musicians"
-            ],
-            "date_published": "2026-05-27T17:17:00+01:00",
-            "date_modified": "2026-07-05T16:14:45+01:00"
         }
     ]
 }
