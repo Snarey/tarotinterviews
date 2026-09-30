@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://tarotinterviews.com/p/i-built-a-haunted-little-tarot-robot/",
+            "url": "https://tarotinterviews.com/p/i-built-a-haunted-little-tarot-robot/",
+            "title": "I Built a Haunted Little Tarot Robot",
+            "summary": "TAROTRON 2000 is a pocket-sized tarot machine I’ve been developing as an experiment in creative technology. Built using Arduino and an M5StickS3, the prototype runs on a tiny computer with its own screen, speaker and controls. Give it a command and it randomly selects a Rider-Waite-Smith tarot card, displays the card and its meaning, and talks about what it has chosen. It also has rather more personality than was strictly necessary. The idea grew out of several strands of my work. I’ve spent more than thirty years working with tarot, built CardMeanings.com as a reference to the 78 Rider-Waite-Smith cards, and I really wanted&hellip;",
+            "content_html": "<p data-pm-slice=\"1 1 []\">TAROTRON 2000 is a pocket-sized tarot machine I’ve been developing as an experiment in creative technology.</p>\n<p>Built using Arduino and an M5StickS3, the prototype runs on a tiny computer with its own screen, speaker and controls. Give it a command and it randomly selects a Rider-Waite-Smith tarot card, displays the card and its meaning, and talks about what it has chosen.</p>\n<p>It also has rather more personality than was <em>strictly</em> necessary.</p>\n<p>The idea grew out of several strands of my work. I’ve spent more than thirty years working with tarot, built <a href=\"CardMeanings.com\">CardMeanings.com</a> as a reference to the 78 Rider-Waite-Smith cards, and I really wanted a new gadget to bring to events. I had been searching on eBay for an 80s electronic tarot toy, only to realise I could make one myself.</p>\n<p>The current prototype can select cards, display their meanings, speak, make noises, change its behaviour and occasionally say things it probably shouldn't via a special \"Cursed Mode\".</p>\n<p>I’m now using TAROTRON 2000 to produce a short daily card draw while continuing to experiment with what else this peculiar little machine can do.<br><br>If you're curious, follow this silliness at<br><br><a href=\"https://www.youtube.com/@TAROTRON2000\">https://www.youtube.com/@TAROTRON2000</a><br><a href=\"https://www.instagram.com/tarotron2000\">https://www.instagram.com/tarotron2000</a><br><a href=\"https://www.tiktok.com/@tarotron2000\">https://www.tiktok.com/@tarotron2000</a></p>",
+            "image": "https://tarotinterviews.com/media/posts/75/TarotTron-EDIT-1.jpg",
+            "author": {
+                "name": "Finbarre Snarey"
+            },
+            "tags": [
+                   "Projects"
+            ],
+            "date_published": "2026-09-30T19:45:46+01:00",
+            "date_modified": "2026-09-30T19:45:46+01:00"
+        },
+        {
             "id": "https://tarotinterviews.com/p/jill-dawson/",
             "url": "https://tarotinterviews.com/p/jill-dawson/",
             "title": "Jill Dawson",
@@ -146,22 +162,6 @@
             ],
             "date_published": "2026-06-30T20:56:29+01:00",
             "date_modified": "2026-07-05T16:17:55+01:00"
-        },
-        {
-            "id": "https://tarotinterviews.com/p/free-2026-community-partner-spots/",
-            "url": "https://tarotinterviews.com/p/free-2026-community-partner-spots/",
-            "title": "Free 2026 Community Partner Spots",
-            "summary": "Tarot Interviews is opening a small number of free community partner spots for tarot, folklore, heritage, arts and culture organizations. Selected partners can share a finished 30 second audio message with Tarot Interviews listeners. There is no fee. In return, I ask partners to help spread the word with an Instagram follow, social post, tag or link where possible. UK-based projects, podcasts and cultural or heritage work may be prioritised, but international submissions are very welcome. Please send finished audio only, as a WAV or high quality MP3. Spots are limited and all submissions will be reviewed before approval. Apply&hellip;",
-            "content_html": "<p><!-- wp:paragraph --></p>\n<p><!-- /wp:paragraph --></p>\n<p><!-- wp:paragraph --></p>\n<p>Tarot Interviews is opening a small number of free community partner spots for tarot, folklore, heritage, arts and culture organizations.</p>\n<p><!-- /wp:paragraph --></p>\n<p><!-- wp:paragraph --></p>\n<p>Selected partners can share a finished 30 second audio message with Tarot Interviews listeners. <strong>There is no fee</strong>. In return, I ask partners to help spread the word with an Instagram follow, social post, tag or link where possible.</p>\n<p><!-- /wp:paragraph --></p>\n<p><!-- wp:paragraph --></p>\n<p>UK-based projects, podcasts and cultural or heritage work may be prioritised, but international submissions are very welcome.</p>\n<p><!-- /wp:paragraph --></p>\n<p><!-- wp:paragraph --></p>\n<p>Please send finished audio only, as a WAV or high quality MP3.</p>\n<p><!-- /wp:paragraph --></p>\n<p><!-- wp:paragraph --></p>\n<p>Spots are limited and all submissions will be reviewed before approval.</p>\n<p><!-- /wp:paragraph --></p>\n<p><!-- wp:paragraph --></p>\n<p><a href=\"https://docs.google.com/forms/d/1Y4rtCPAuG6KRVYgUf0xvYJ9J7lF7l9G0AAioaPEqFt4/edit\">Apply Here</a></p>\n<p><!-- /wp:paragraph --></p>",
-            "image": "https://tarotinterviews.com/media/posts/55/PXL_20260607_144121486.jpg",
-            "author": {
-                "name": "Finbarre Snarey"
-            },
-            "tags": [
-                   "Opportunities"
-            ],
-            "date_published": "2026-06-25T17:03:49+01:00",
-            "date_modified": "2026-07-05T16:22:51+01:00"
         }
     ]
 }

@@ -3,12 +3,41 @@
     <title>Tarot Interviews</title>
     <link href="https://tarotinterviews.com/feed.xml" rel="self" />
     <link href="https://tarotinterviews.com" />
-    <updated>2026-09-21T18:29:22+01:00</updated>
+    <updated>2026-09-30T19:45:46+01:00</updated>
     <author>
         <name>Finbarre Snarey</name>
     </author>
     <id>https://tarotinterviews.com</id>
 
+    <entry>
+        <title>I Built a Haunted Little Tarot Robot</title>
+        <author>
+            <name>Finbarre Snarey</name>
+        </author>
+        <link href="https://tarotinterviews.com/p/i-built-a-haunted-little-tarot-robot/"/>
+        <id>https://tarotinterviews.com/p/i-built-a-haunted-little-tarot-robot/</id>
+        <media:content url="https://tarotinterviews.com/media/posts/75/TarotTron-EDIT-1.jpg" medium="image" />
+            <category term="Projects"/>
+
+        <updated>2026-09-30T19:45:46+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://tarotinterviews.com/media/posts/75/TarotTron-EDIT-1.jpg" alt="Illustration of TAROTRON 2000 as a tiny fortune-teller robot, with a dark blue screen, grey casing and purple cloak, surrounded by yellow stars on a purple background." />
+                    TAROTRON 2000 is a pocket-sized tarot machine I’ve been developing as an experiment in creative technology. Built using Arduino and an M5StickS3, the prototype runs on a tiny computer with its own screen, speaker and controls. Give it a command and it randomly selects a Rider-Waite-Smith tarot card, displays the card and its meaning, and talks about what it has chosen. It also has rather more personality than was strictly necessary. The idea grew out of several strands of my work. I’ve spent more than thirty years working with tarot, built CardMeanings.com as a reference to the 78 Rider-Waite-Smith cards, and I really wanted&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://tarotinterviews.com/media/posts/75/TarotTron-EDIT-1.jpg" class="type:primaryImage" alt="Illustration of TAROTRON 2000 as a tiny fortune-teller robot, with a dark blue screen, grey casing and purple cloak, surrounded by yellow stars on a purple background." /></p>
+                <p data-pm-slice="1 1 []">TAROTRON 2000 is a pocket-sized tarot machine I’ve been developing as an experiment in creative technology.</p>
+<p>Built using Arduino and an M5StickS3, the prototype runs on a tiny computer with its own screen, speaker and controls. Give it a command and it randomly selects a Rider-Waite-Smith tarot card, displays the card and its meaning, and talks about what it has chosen.</p>
+<p>It also has rather more personality than was <em>strictly</em> necessary.</p>
+<p>The idea grew out of several strands of my work. I’ve spent more than thirty years working with tarot, built <a href="CardMeanings.com">CardMeanings.com</a> as a reference to the 78 Rider-Waite-Smith cards, and I really wanted a new gadget to bring to events. I had been searching on eBay for an 80s electronic tarot toy, only to realise I could make one myself.</p>
+<p>The current prototype can select cards, display their meanings, speak, make noises, change its behaviour and occasionally say things it probably shouldn't via a special "Cursed Mode".</p>
+<p>I’m now using TAROTRON 2000 to produce a short daily card draw while continuing to experiment with what else this peculiar little machine can do.<br><br>If you're curious, follow this silliness at<br><br><a href="https://www.youtube.com/@TAROTRON2000">https://www.youtube.com/@TAROTRON2000</a><br><a href="https://www.instagram.com/tarotron2000">https://www.instagram.com/tarotron2000</a><br><a href="https://www.tiktok.com/@tarotron2000">https://www.tiktok.com/@tarotron2000</a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Jill Dawson</title>
         <author>
@@ -256,49 +285,6 @@
 <p>Follow her cards <a href="https://www.tarotdms.com/p/chat-32-callie-kazumi">here</a></p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p><!-- /wp:paragraph --></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Free 2026 Community Partner Spots</title>
-        <author>
-            <name>Finbarre Snarey</name>
-        </author>
-        <link href="https://tarotinterviews.com/p/free-2026-community-partner-spots/"/>
-        <id>https://tarotinterviews.com/p/free-2026-community-partner-spots/</id>
-        <media:content url="https://tarotinterviews.com/media/posts/55/PXL_20260607_144121486.jpg" medium="image" />
-            <category term="Opportunities"/>
-
-        <updated>2026-06-25T17:03:49+01:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://tarotinterviews.com/media/posts/55/PXL_20260607_144121486.jpg" alt="" />
-                    Tarot Interviews is opening a small number of free community partner spots for tarot, folklore, heritage, arts and culture organizations. Selected partners can share a finished 30 second audio message with Tarot Interviews listeners. There is no fee. In return, I ask partners to help spread the word with an Instagram follow, social post, tag or link where possible. UK-based projects, podcasts and cultural or heritage work may be prioritised, but international submissions are very welcome. Please send finished audio only, as a WAV or high quality MP3. Spots are limited and all submissions will be reviewed before approval. Apply&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://tarotinterviews.com/media/posts/55/PXL_20260607_144121486.jpg" class="type:primaryImage" alt="" /></p>
-                <p><!-- wp:paragraph --></p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>Tarot Interviews is opening a small number of free community partner spots for tarot, folklore, heritage, arts and culture organizations.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>Selected partners can share a finished 30 second audio message with Tarot Interviews listeners. <strong>There is no fee</strong>. In return, I ask partners to help spread the word with an Instagram follow, social post, tag or link where possible.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>UK-based projects, podcasts and cultural or heritage work may be prioritised, but international submissions are very welcome.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>Please send finished audio only, as a WAV or high quality MP3.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>Spots are limited and all submissions will be reviewed before approval.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p><a href="https://docs.google.com/forms/d/1Y4rtCPAuG6KRVYgUf0xvYJ9J7lF7l9G0AAioaPEqFt4/edit">Apply Here</a></p>
 <p><!-- /wp:paragraph --></p>
             ]]>
         </content>
