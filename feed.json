@@ -5,11 +5,25 @@
     "home_page_url": "https://tarotinterviews.com",
     "feed_url": "https://tarotinterviews.com/feed.json",
     "user_comment": "",
-    "icon": "https://tarotinterviews.com/media/website/Smaller-TI1-2.png",
     "author": {
         "name": "Finbarre Snarey"
     },
     "items": [
+        {
+            "id": "https://tarotinterviews.com/p/michael-shapiro/",
+            "url": "https://tarotinterviews.com/p/michael-shapiro/",
+            "title": "Michael Shapiro",
+            "summary": "New on Tarot DMs! Composer and conductor Michael Shapiro on giving Frankenstein a new musical voice, Boris Karloff, the soul of the monster, communal breath, and the unexpectedly arrival of a much-maligned card. Read Chat 46 at TarotDMs.com",
+            "content_html": "<p>New on Tarot DMs! Composer and conductor Michael Shapiro on giving <em>Frankenstein</em> a new musical voice, Boris Karloff, the soul of the monster, communal breath, and the unexpectedly arrival of a much-maligned card.</p>\n<p>Read Chat 46 at <a href=\"New on Tarot DMs: composer and conductor Michael Shapiro on giving Frankenstein a new musical voice, Boris Karloff, the soul of the monster, communal breath, and the unexpectedly perfect arrival of the Devil card. Read Chat 46: https://www.tarotdms.com/p/chat-46-michael-shapiro\">TarotDMs.com</a></p>",
+            "image": "https://tarotinterviews.com/media/posts/77/261025_frankenstein.jpg",
+            "author": {
+                "name": "Finbarre Snarey"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-10-07T23:08:18+01:00",
+            "date_modified": "2026-10-07T23:08:18+01:00"
+        },
         {
             "id": "https://tarotinterviews.com/p/i-built-a-haunted-little-tarot-robot/",
             "url": "https://tarotinterviews.com/p/i-built-a-haunted-little-tarot-robot/",
@@ -146,22 +160,6 @@
             ],
             "date_published": "2026-07-13T23:17:03+01:00",
             "date_modified": "2026-07-14T08:38:15+01:00"
-        },
-        {
-            "id": "https://tarotinterviews.com/p/callie-kazumi/",
-            "url": "https://tarotinterviews.com/p/callie-kazumi/",
-            "title": "Callie Kazumi",
-            "summary": "\"Fucking hell, do I get The Sun\" On a day when the heatwave was so intense that even the cats are sprawled out in every compass direction, there was only one Anchor card the deck could possibly offer up! For the latest edition of Tarot DMs, I sat down with psychological thriller author Callie Kazumi. Follow her cards here",
-            "content_html": "<p><!-- wp:paragraph --></p>\n<p><!-- /wp:paragraph --></p>\n<p><!-- wp:paragraph --></p>\n<p>\"Fucking hell, <strong>do</strong> I get The Sun\"</p>\n<p><!-- /wp:paragraph --></p>\n<p><!-- wp:paragraph --></p>\n<p>On a day when the heatwave was so intense that even the cats are sprawled out in every compass direction, there was only one Anchor card the deck could possibly offer up! For the latest edition of Tarot DMs, I sat down with psychological thriller author Callie Kazumi.</p>\n<p><!-- /wp:paragraph --></p>\n<p><!-- wp:paragraph --></p>\n<p>Follow her cards <a href=\"https://www.tarotdms.com/p/chat-32-callie-kazumi\">here</a></p>\n<p><!-- /wp:paragraph --></p>\n<p><!-- wp:paragraph --></p>\n<p><!-- /wp:paragraph --></p>",
-            "image": "https://tarotinterviews.com/media/posts/56/WhatsApp-Image-2026-06-29-at-09.26.47.jpeg",
-            "author": {
-                "name": "Finbarre Snarey"
-            },
-            "tags": [
-                   "Authors"
-            ],
-            "date_published": "2026-06-30T20:56:29+01:00",
-            "date_modified": "2026-07-05T16:17:55+01:00"
         }
     ]
 }
