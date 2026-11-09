@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://tarotinterviews.com/p/speaking-about-pixie-at-tate-britain/",
+            "url": "https://tarotinterviews.com/p/speaking-about-pixie-at-tate-britain/",
+            "title": "Speaking about Pixie at Tate Britain",
+            "summary": "A rather special Friday! I had the pleasure of giving a talk, The Pre-Raphaelites and Pixie: Pamela Colman Smith and the Art of Tarot, exploring the artistic and theatrical world that helped shape the Rider-Waite-Smith tarot deck. I traced Smith's connections to the Pre-Raphaelites through figures including Ellen Terry, Edward Burne-Jones and Florence Farr, looking at how theatre, illustration and the people around her may have influenced some of the most recognisable images in tarot. Fascinating to bring together my research into Pamela Colman Smith's life, her artistic influences and the possible identities of the people she depicted in the&hellip;",
+            "content_html": "<p data-pm-slice=\"1 1 []\">A rather special Friday! I had the pleasure of giving a talk, <em>The Pre-Raphaelites and Pixie: Pamela Colman Smith and the Art of Tarot</em>, exploring the artistic and theatrical world that helped shape the Rider-Waite-Smith tarot deck.</p>\n<p>I traced Smith's connections to the Pre-Raphaelites through figures including Ellen Terry, Edward Burne-Jones and Florence Farr, looking at how theatre, illustration and the people around her may have influenced some of the most recognisable images in tarot. Fascinating to bring together my research into Pamela Colman Smith's life, her artistic influences and the possible identities of the people she depicted in the cards.</p>\n<p>As someone who has spent decades with the cards, standing at Tate Britain and talking about Pixie and her extraordinary work was a privilege.</p>",
+            "image": "https://tarotinterviews.com/media/posts/82/PXL_20261030_085140981~2.jpg",
+            "author": {
+                "name": "Finbarre Snarey"
+            },
+            "tags": [
+                   "Tate Britain"
+            ],
+            "date_published": "2026-11-02T09:19:40+00:00",
+            "date_modified": "2026-11-02T09:19:40+00:00"
+        },
+        {
             "id": "https://tarotinterviews.com/p/meredith-yayanos/",
             "url": "https://tarotinterviews.com/p/meredith-yayanos/",
             "title": "Meredith Yayanos",
@@ -144,21 +160,6 @@
             ],
             "date_published": "2026-09-08T21:33:14+01:00",
             "date_modified": "2026-09-08T21:33:14+01:00"
-        },
-        {
-            "id": "https://tarotinterviews.com/p/boo-miller/",
-            "url": "https://tarotinterviews.com/p/boo-miller/",
-            "title": "Boo Miller",
-            "summary": "Dive into the mind of Boo Miller, the versatile voice actor who brings Hershel Wilk and her competing internal skills to life in ZA/UM’s Zero Parades: For Dead Spies. In the latest episode of Tarot DMs, Boo pulls three cards to navigate her dynamic creative journey, contrasting the deep community of a year-and-a-half-long studio project with the thrill of live improv. Boo shares candid insights on overcoming creative burnout, applying Meryl Streep's advice on living a full life, and balancing her bustling career with planning an autumnal wedding and a honeymoon to the Seychelles. Alongside the profound reflections, Boo fully&hellip;",
-            "content_html": "<p data-path-to-node=\"0\">Dive into the mind of Boo Miller, the versatile voice actor who brings Hershel Wilk and her competing internal skills to life in ZA/UM’s <i data-path-to-node=\"0\" data-index-in-node=\"137\">Zero Parades: For Dead Spies</i>. In the latest episode of Tarot DMs, Boo pulls three cards to navigate her dynamic creative journey, contrasting the deep community of a year-and-a-half-long studio project with the thrill of live improv.</p>\n<p data-path-to-node=\"1\">Boo shares candid insights on overcoming creative burnout, applying Meryl Streep's advice on living a full life, and balancing her bustling career with planning an autumnal wedding and a honeymoon to the Seychelles. Alongside the profound reflections, Boo fully embraces the chaos by translating her tarot pulls into high Furbish.</p>\n<p data-path-to-node=\"1\">Hear Boo's unforgettable interview <a href=\"https://www.tarotdms.com/p/chat-38-boo-miller\" target=\"_blank\" rel=\"noopener noreferrer\">here</a></p>",
-            "image": "https://tarotinterviews.com/media/posts/71/9609462Boo-Miller10029-copy.jpg",
-            "author": {
-                "name": "Finbarre Snarey"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-08-29T15:06:09+01:00",
-            "date_modified": "2026-08-29T15:06:09+01:00"
         }
     ]
 }
